@@ -26,6 +26,11 @@ Make directory in assets folder which files will uploaded eg: ckimages
 
 
 # Screenshots
+<img src="https://github.com/Guley/ckeditorimageupload/blob/master/ckfinder3.png" />
+<img src="https://github.com/Guley/ckeditorimageupload/blob/master/ckfinder2.png" />
+<img src="https://github.com/Guley/ckeditorimageupload/blob/master/ckfinder1.png" />
+
+
 
 
 
