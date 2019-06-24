@@ -1,5 +1,7 @@
 # ckeditorimageupload
 ckeditor image upload
+Include following cdn in footer
+```<script src="//cdn.ckeditor.com/4.11.3/standard/ckeditor.js"></script>```
 
 Download ckfinder from below link
 ```
